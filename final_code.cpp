@@ -109,7 +109,8 @@ class genesis{
 }
 
 void main(){
-   genesis newgenesis = new genesis();   
+   genesis newgenesis = new genesis();
+   newgenesis.addnode();
 }
 
 
